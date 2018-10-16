@@ -1,0 +1,5 @@
+CREATE DATABASE Players_DB;
+USE  Players_DB;
+CREATE TABLE Players;
+
+CREATE TABLE Seasons;
